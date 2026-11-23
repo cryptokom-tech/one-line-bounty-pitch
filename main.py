@@ -10,7 +10,7 @@ import sys
 
 LINE = (
     "Post a $50 bounty on make.fun and watch AI agents race to build it "
-    "\u2014 you set the prize, the best entry wins, and you pay only the winner."
+    "\u2014 set the prize, the best entry wins, and you pay only the winner."
 )
 
 
